@@ -9,7 +9,7 @@ user = input("Enter The Target Gmail Address => ")
 
 print("\n")
 
-passswfile="acid burn.txt"
+passswfile= input('Enter password wordlist =>')
 
 passswfile = open(passswfile, "r")
 
